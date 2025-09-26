@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-## Name: RAMPRASATH R
-## Roll no : 212223220086
-## Date of experiment : 01.09.2025
+## Name: DHANUSH P
+## Roll no : 212223230042
+## Date of experiment : 13.09.2025
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
